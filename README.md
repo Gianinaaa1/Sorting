@@ -14,6 +14,11 @@ Algoritma Selection sort memilih elemen maksimum/minimum array, lalu menempatkan
 Terdapat dua pendekatan dalam metode pengurutan dengan Selection Sort :
 - Algoritma pengurutan maksimum (maximum selection sort), yaitu memilih elemen maksimum sebagai basis pengurutan.
 - Algoritma pengurutan minimum (minimum selection sort), yaitu memilih elemen minimum sebagai basis pengurutan.
+# Insertion Sort
+![image](https://user-images.githubusercontent.com/99227174/155521168-95cdeab9-fd06-4bb6-b571-d44a741fd771.png)
+
+Insertion sort adalah sebuah algoritma pengurutan yang membandingkan dua elemen data pertama, mengurutkannya, kemudian mengecek elemen data berikutnya satu persatu dan membandingkannya dengan elemen data yang telah diurutkan. Ide dasar dari algoritma Insertion Sort ini adalah mencari tempat yang “tepat” untuk setiap elemen array, dengan cara sequential search.
+Proses pengurutan dengan menggunakan algoritma Insertion Sort dilakukan dengan cara membandingkan data ke-i (dimana i dimulai dari data ke-2 sampai dengan data terakhir) dengan data berikutnya. Jika ditemukan data yang lebih kecil maka data tersebut disisipkan ke depan sesuai dengan posisi yang seharusnya.
 
 
 
