@@ -3,7 +3,7 @@ Sorting atau pengurutan data adalah proses yang sering harus dilakukan dalam pen
 # Metode Pengurutan
 Beberapa contoh metode pengurutan sebagai berikut :
 # Bubble Sort
-![image](https://user-images.githubusercontent.com/99227174/155523430-06b371b5-5c04-4d04-bf66-473dc6d311e1.png)
+![image](https://user-images.githubusercontent.com/99227174/155523613-ada13165-7cd9-42a2-9bdd-c7c7f46c9eb6.png)
 
 Bubble sort adalah proses pengurutan sederhana yang bekerja dengan cara berulang kali membandingkan dua elemen data pada suatu saat dan menukar elemen data yang urutannya salah.
 algoritma ini melakukan pengurutan dengan cara membandingkan elemen-elemen data satu sama lain, maka bubble sort termasuk ke dalam jenis algoritma comparison-based sorting.
