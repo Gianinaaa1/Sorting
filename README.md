@@ -1,7 +1,11 @@
 # Sorting
 Sorting atau pengurutan data adalah proses yang sering harus dilakukan dalam pengolahan data. Sort dalam hal ini diartikan mengurutkan data yang berada dalam suatu tempat penyimpanan, dengan urutan tertentu baik urut menaik (ascending) dari nilai terkecil sampai dengan nilai terbesar, atau urut menurun (descending) dari nilai terbesar sampai dengan nilai terkecil. Sorting adalah proses pengurutan.
 # Code Program
-[Bubble Sort](https://github.com/Gianinaaa1/Sorting/blob/main/Bubblesort_gia.c)
+[1. Bubble Sort](https://github.com/Gianinaaa1/Sorting/blob/main/Bubblesort_gia.c)
+
+[2. Selection Sort](https://github.com/Gianinaaa1/Sorting/blob/main/Selectionsort_gia.c)
+
+[3. Insertion Sort]
 
 # Metode Pengurutan
 Beberapa contoh metode pengurutan sebagai berikut :
