@@ -5,7 +5,7 @@ Sorting atau pengurutan data adalah proses yang sering harus dilakukan dalam pen
 
 [2. Selection Sort](https://github.com/Gianinaaa1/Sorting/blob/main/Selectionsort_gia.c)
 
-[3. Insertion Sort]
+[3. Insertion Sort](https://github.com/Gianinaaa1/Sorting/blob/main/Insertionsort_gia.c)
 
 # Metode Pengurutan
 Beberapa contoh metode pengurutan sebagai berikut :
